@@ -1,6 +1,6 @@
 # 👨‍💻 Anderson Moraes
 
-**`Analista de infraestrutura | Desenvolvedor Full Stack | Sistemas Web | Automação | Banco de Dados`**
+**`Analista de Redes | Desenvolvedor Full Stack | Sistemas Web | Automação | Banco de Dados`**
 
 Me chamo Anderson Moraes, tenho 39 anos e sou profissional de tecnologia com experiência em desenvolvimento web, sistemas corporativos, automações e infraestrutura de TI.
 
